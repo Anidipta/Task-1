@@ -1,5 +1,4 @@
 
-
 # 📊 Task-1: Comparing Time-Series Models with Static Image-Based Approaches for Emotion Recognition
 
 ### 🎯 Objective:
@@ -13,15 +12,15 @@ Compare the performance of time-series models with static image-based approaches
 - **`LICENSE`** - Project license for usage rights.
 
 ### 📈 Performance Metrics:
-- **Accuracy Inception:** ![Accuracy Inception](Accuracy Inception.jpg)
-- **Accuracy ResNet:** ![Accuracy ResNet](Accuracy Resnet.jpg)
-- **Loss Inception:** ![Loss Inception](Loss Inception.jpg)
-- **Loss ResNet:** ![Loss ResNet](Loss Resnet.jpg)
-- **Confusion Matrix Inception FER:** ![Confusion Matrix Inception FER](confusion matrix inception FER.png)
-- **Confusion Matrix ResNet FER:** ![Confusion Matrix ResNet FER](confusion matrix RESNET FER.png)
-- **ROC AUC Inception FER:** ![ROC AUC Inception FER](ROC AUC inception FER.png)
-- **ROC AUC ResNet FER:** ![ROC AUC ResNet FER](ROC AUC RESNET FER.png)
-- **Dataset Distribution:** ![Dataset Distribution](Dataset Distribution.jpg)
+- **Accuracy Inception:** ![Accuracy Inception](Images/Accuracy Inception.jpg)
+- **Accuracy ResNet:** ![Accuracy ResNet](Images/Accuracy Resnet.jpg)
+- **Loss Inception:** ![Loss Inception](Images/Loss Inception.jpg)
+- **Loss ResNet:** ![Loss ResNet](Images/Loss Resnet.jpg)
+- **Confusion Matrix Inception FER:** ![Confusion Matrix Inception FER](Images/confusion matrix inception FER.png)
+- **Confusion Matrix ResNet FER:** ![Confusion Matrix ResNet FER](Images/confusion matrix RESNET FER.png)
+- **ROC AUC Inception FER:** ![ROC AUC Inception FER](Images/ROC AUC inception FER.png)
+- **ROC AUC ResNet FER:** ![ROC AUC ResNet FER](Images/ROC AUC RESNET FER.png)
+- **Dataset Distribution:** ![Dataset Distribution](Images/Dataset Distribution.jpg)
 
 ### 🎥 Demo Video:
 Watch the demo video showcasing the performance comparison of the models:
